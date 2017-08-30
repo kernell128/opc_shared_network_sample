@@ -9,5 +9,5 @@ variable administrator_password {
 
 variable ssh_public_key_file {
 	description = "MK002TF"
-	default = "/Users/mike/mk_keys_02/id_rsa.pub"
+	default = "id_rsa.pub"
 }
